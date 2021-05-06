@@ -1,5 +1,7 @@
 This is a basic snake game
+
 CODE :
+
 from turtle import *
 from random import randrange
 from freegames import square, vector
